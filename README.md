@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there，it's Yanzhen Chen 👋
 
 <!--
 **jasonchen1001/jasonchen1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
