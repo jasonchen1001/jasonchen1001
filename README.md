@@ -1,54 +1,74 @@
-## Hi there，it's Yanzhen Chen 👋
-<!-- 动态标题与本地SVG校徽 -->
+<!-- 页眉与校徽 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/jasonchen1001/jasonchen1001/main/neu_seal.svg" width="120" align="left" alt="NEU Seal">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%2336BCF7&size=30&width=600&lines=Yanzhen+Chen+%F0%9F%91%8B;Data+Science+Undergrad+@+NEU;Python+%7C+ML+%7C+Full-Stack;Co-op+Ready+%E2%9C%A8">
-    </a>
-  </h1>
+  <h1 align="center">Yanzhen Chen</h1>
+  <h3 align="center">📊 Data Science @ Northeastern | 🛠️ Full-Stack Developer</h3>
 </div>
 
-<!-- 水波纹分隔线 -->
+<!-- 动态分隔线 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 项目直达链接 -->
-## 🔗 Project Quick Links / 项目直通车
-[![InternMatch](https://img.shields.io/badge/🌟-InternMatch_AI_Platform-30B980?logo=github)](https://github.com/jasonchen1001/InternMatch)
-[![NHANES](https://img.shields.io/badge/🏆-NHANES_Obesity_Analysis-3C78A9?logo=github)](https://github.com/jasonchen1001/NHANES-Analysis)
-[![Logistics Dashboard](https://img.shields.io/badge/📊-Logistics_Analytics-4E79A7?logo=github)]([https://github.com/jasonchen1001/Dashboard])
-
-<!-- 技术栈 -->
-## 🛠️ Tech Stack / 技术栈
+<!-- 核心信息栏 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,mongodb,git,docker,flask,aws,tableau&theme=light">
+  
+  [![Email](https://img.shields.io/badge/-yizhouchen68%40gmail.com-30B980?logo=gmail&style=flat)](mailto:yizhouchen68@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-Yanzhen_Chen-0A66C2?logo=linkedin)](https://linkedin.com/in/yanzhen-chen-97557a343)
+  ![Visitors](https://komarev.com/ghpvc/?username=jasonchen1001&color=30B980&style=flat)
+
 </div>
 
-<!-- 项目展示 -->
-## 🚀 Project Showcase / 项目画廊
-
+<!-- 技术栈 -->
+## 🛠️ Technical Arsenal
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/jasonchen1001/InternMatch">
-        <img src="https://raw.githubusercontent.com/jasonchen1001/jasonchen1001/main/internmatch_thumbnail.png" width="100%">
-      </a>
-      <h3>InternMatch AI Platform</h3>
-      <p>👨💻 Team Leadership | 🤖 NLP Matching | 🐳 Docker Deployment</p>
+      <h3>Languages & Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,js,flask,react,nodejs">
     </td>
     <td width="50%">
-      <a href="https://github.com/jasonchen1001/NHANES-Analysis">
-        <img src="https://raw.githubusercontent.com/jasonchen1001/jasonchen1001/main/nhanes_thumbnail.png" width="100%">
-      </a>
-      <h3>Obesity Risk Analysis</h3>
-      <p>📈 95% Model Accuracy | 🎯 Feature Importance | 📊 Tableau Viz</p>
+      <h3>Data Ecosystem</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,docker,tableau">
     </td>
   </tr>
 </table>
 
-<!-- 部署指南 -->
-```bash
-# 本地运行项目示例
-git clone https://github.com/jasonchen1001/InternMatch.git
-cd InternMatch
-docker-compose up --build
+<!-- 教育经历 -->
+## 🎓 Academic Journey
+**Northeastern University** | `2022.09 - 2026.12 Expected`  
+- B.S. in Data Science | GPA: 3.6/4.0  
+- Dean's List (Khoury College of Computer Sciences)  
+- Coursework:  
+  ▸ Advanced Data Programming (A)  
+  ▸ Database Systems(A)  
+  ▸ Large-Scale Data Storage & Retrieval(A)
+  ▸ Information Visualization (A)
+  ▸ Algorithms & Data Structures (A)
+
+<!-- 项目亮点 -->
+## 🚀 Notable Impact
+### 🤖 InternMatch AI Platform
+- Reduced HR screening time by **50%** via NLP matching
+- Led 5-member team with **99%** Docker deployment consistency
+- [![Repo](https://img.shields.io/badge/GitHub-源码-3C78A9)](https://github.com/jasonchen1001/InternMatch)
+
+### 📈 NHANES Obesity Analysis
+- Achieved **95% accuracy** with XGBoost model
+- Identified 3 key socioeconomic factors
+- [![Repo](https://img.shields.io/badge/GitHub-源码-3C78A9)](https://github.com/jasonchen1001/NHANES-Analysis)
+
+<!-- 统计卡片 -->
+## 📊 GitHub Analytics
+<div align="center">
+  <a href="https://github.com/jasonchen1001">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jasonchen1001&include_all_commits=true&count_private=true&show_icons=true&theme=vue">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchen1001&layout=compact&theme=vue">
+  </a>
+</div>
+
+<!-- 协作状态 -->
+<div align="center" style="margin-top:20px">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <strong>Available for 2025 Co-op | 6+ months commitment</strong>
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
+</div>
+
