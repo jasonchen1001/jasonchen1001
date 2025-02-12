@@ -20,13 +20,13 @@
 ## 🛠️ Technical Arsenal
 <table>
   <tr>
-    <td width="50%">
+    <td width="60%">
       <h3>Languages & Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,js,flask,react,nodejs">
+      <img src="https://skillicons.dev/icons?i=python,java,js,flask">
     </td>
-    <td width="50%">
+    <td width="60%">
       <h3>Data Ecosystem</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,docker,tableau">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,tableau">
     </td>
   </tr>
 </table>
@@ -55,19 +55,11 @@
 - Identified 3 key socioeconomic factors
 - [![Repo](https://img.shields.io/badge/GitHub-源码-3C78A9)](https://github.com/jasonchen1001/NHANES-Analysis)
 
-<!-- 统计卡片 -->
-## 📊 GitHub Analytics
-<div align="center">
-  <a href="https://github.com/jasonchen1001">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=jasonchen1001&include_all_commits=true&count_private=true&show_icons=true&theme=vue">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonchen1001&layout=compact&theme=vue">
-  </a>
-</div>
 
 <!-- 协作状态 -->
 <div align="center" style="margin-top:20px">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <strong>Available for 2025 Co-op | 6+ months commitment</strong>
+  <strong>Available for 2025 Co-op 寻找2025年的实习 | 6+ months commitment 可实习6个月以上</strong>
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30">
 </div>
 
