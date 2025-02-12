@@ -1,3 +1,4 @@
+## Hi there，it's Yanzhen Chen 👋
 <!-- 页眉与校徽 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/jasonchen1001/jasonchen1001/main/neu_seal.svg" width="120" align="left" alt="NEU Seal">
@@ -5,8 +6,6 @@
   <h3 align="center">📊 Data Science @ Northeastern | 🛠️ Full-Stack Developer</h3>
 </div>
 
-<!-- 动态分隔线 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- 核心信息栏 -->
 <div align="center">
