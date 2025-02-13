@@ -31,18 +31,6 @@
   </tr>
 </table>
 
-<!-- 教育经历 -->
-## 🎓 Academic Journey
-**Northeastern University** | `2022.09 - 2026.12 Expected`  
-- B.S. in Data Science | GPA: 3.6/4.0  
-- Dean's List (Khoury College of Computer Sciences)  
-- Coursework:  
-  ▸ Advanced Data Programming (A)  
-  ▸ Database Systems(A)  
-  ▸ Large-Scale Data Storage & Retrieval(A)
-  ▸ Information Visualization (A)
-  ▸ Algorithms & Data Structures (A)
-
 <!-- 项目亮点 -->
 ## 🚀 Notable Impact
 ### 🤖 InternMatch AI Platform
