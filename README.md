@@ -33,7 +33,7 @@
 
 <!-- 项目亮点 -->
 ## 🚀 Notable Impact
-### 🚗 Cross-border E-commerce Pricing Strategy Optimization / 跨境电商产品定价策略优化
+### 🚗 Cross-border E-commerce Pricing Strategy Optimization
 - **Data Integration & Insights:** Cleaned and analyzed 94K+ Amazon product records (price/ratings/reviews), engineered
 features to identify price-sensitive SKUs, reducing high-risk inventory by 30% and procurement costs by 28%.
 - **Sentiment-Driven Strategy:** Built a BERT-based sentiment analysis model for 12 product attributes, achieving 92%
