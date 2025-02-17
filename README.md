@@ -42,7 +42,7 @@ accuracy (+18% vs NLTK VADER). Identified premium product selling points with 23
 word clouds), implementing city-category-price tier filters to accelerate decision-making by 50%.
 - **Business Impact:** Published SOP for dynamic pricing strategies, supporting 100+ SKU adjustments with 15% gross
 margin increase in 3 months.
-- [![Repo](https://img.shields.io/badge/GitHub-源码-3C78A9)]([https://github.com/jasonchen1001/ecommerce-pricing-optimizer.git])
+- [![Repo](https://img.shields.io/badge/GitHub-源码-3C78A9)](https://github.com/jasonchen1001/ecommerce-pricing-optimizer)
   
 ### 🤖 InternMatch AI Platform
 - **Database Optimization:** Designed MySQL schema with ER diagrams and composite indexes, improving complex query
