@@ -75,12 +75,6 @@
 
 </div>
 
-<!-- Contribution Stats -->
-<div align="center">
-  <h2>📊 GitHub Contributions</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonchen1001&theme=tokyonight" />
-</div>
-
 <!-- Job Status -->
 <div align="center" style="margin-top: 30px; background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
   <h2>🌟 Job Seeking Status</h2>
